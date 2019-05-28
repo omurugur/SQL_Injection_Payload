@@ -15,22 +15,22 @@ to effect the execution of predefined SQL commands.
 SQL Injection point_right https://www.owasp.org/index.php/SQL_Injection
 
 
-Cloning an Existing Repository ( Clone with HTTPS )
+<h3>Cloning an Existing Repository ( Clone with HTTPS )</h3>
 <pre><code>
 root@slife:~# git clone https://github.com/omurugur/Sql_Injection_Payload.git
 </code></pre>
-Cloning an Existing Repository ( Clone with SSH )
+<h3>Cloning an Existing Repository ( Clone with SSH )</h3>
 <pre><code>
 root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 </code></pre>
 
 <h3>Contact :</h3>
 </p>
-Mail : omurugur12@gmail.com
+<h5>Mail</h5> : omurugur12@gmail.com
 </p>
-Linkedin : https://www.linkedin.com/in/omurugur-sibergüvenlik/
+<h5>Linkedin</h5>  : https://www.linkedin.com/in/omurugur-sibergüvenlik/
 </p>
-GitHub : https://github.com/omurugur
+<h5>GitHub</h5>  : https://github.com/omurugur
 
 <h5>Donate!</h5>
 </p>
