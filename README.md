@@ -30,5 +30,5 @@ Donate!
 Support the authors:
 
 
-LiberaPay:
+<h1>LiberaPay:<h1>
 <noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
