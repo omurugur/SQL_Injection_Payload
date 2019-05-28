@@ -14,28 +14,26 @@ to effect the execution of predefined SQL commands.
 
 SQL Injection point_right https://www.owasp.org/index.php/SQL_Injection
 
-Cloning an Existing Repository ( Clone with HTTPS )
-
-root@slife:~# git clone https://github.com/omurugur/Sql_Injection_Payload.git Cloning an Existing Repository ( Clone with SSH )
-
-root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
-
 
 Cloning an Existing Repository ( Clone with HTTPS )
 <pre><code>
-root@slife:~# git clone https://github.com/omurugur/xss-payload-list.git
+root@slife:~# git clone https://github.com/omurugur/Sql_Injection_Payload.git
 </code></pre>
 Cloning an Existing Repository ( Clone with SSH )
 <pre><code>
-root@slife:~# git clone git@github.com:omurugur/xss-payload-list.git
+root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 </code></pre>
 
 <h3>Contact :</h3>
+</p>
 Mail : omurugur12@gmail.com
+</p>
 Linkedin : https://www.linkedin.com/in/omurugur-sibergüvenlik/
+</p>
 GitHub : https://github.com/omurugur
 
-Donate!
+<h5>Donate!</h5>
+</p>
 Support the authors:
 
 
