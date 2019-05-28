@@ -1,6 +1,6 @@
-SQL Injection  Vulnerability Payload List
+<h2>SQL Injection  Vulnerability Payload List</h2>
 
-Overview
+<b>Overview:</b>
 
 A SQL injection attack consists of insertion or "injection" of a SQL query
 via the input data from the client to the application. A successful SQL injection exploit
@@ -10,7 +10,7 @@ given file present on the DBMS file system and in some cases issue commands to t
 SQL injection attacks are a type of injection attack, in which SQL commands are injected into data-plane input in order 
 to effect the execution of predefined SQL commands.
 
-Reference:
+<b>Reference:</b>
 
 SQL Injection point_right https://www.owasp.org/index.php/SQL_Injection
 
@@ -21,17 +21,24 @@ root@slife:~# git clone https://github.com/omurugur/Sql_Injection_Payload.git Cl
 root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 
 
-Contact :
+Cloning an Existing Repository ( Clone with HTTPS )
+<pre><code>
+root@slife:~# git clone https://github.com/omurugur/xss-payload-list.git
+</code></pre>
+Cloning an Existing Repository ( Clone with SSH )
+<pre><code>
+root@slife:~# git clone git@github.com:omurugur/xss-payload-list.git
+</code></pre>
+
+<h3>Contact :</h3>
 Mail : omurugur12@gmail.com
-</p>
 Linkedin : https://www.linkedin.com/in/omurugur-sibergüvenlik/
-</p>
 GitHub : https://github.com/omurugur
-</p>
 
 Donate!
-</p>
 Support the authors:
-</p>
-<h3>LiberaPay:<h3>
+
+
+LiberaPay:
+
 <noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
