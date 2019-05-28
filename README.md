@@ -1,3 +1,5 @@
+SQL Injection  Vulnerability Payload List
+
 Overview
 
 A SQL injection attack consists of insertion or "injection" of a SQL query
@@ -7,3 +9,26 @@ execute administration operations on the database (such as shutdown the DBMS), r
 given file present on the DBMS file system and in some cases issue commands to the operating system.
 SQL injection attacks are a type of injection attack, in which SQL commands are injected into data-plane input in order 
 to effect the execution of predefined SQL commands.
+
+Reference:
+
+SQL Injection point_right https://www.owasp.org/index.php/SQL_Injection
+
+Cloning an Existing Repository ( Clone with HTTPS )
+
+root@slife:~# git clone https://github.com/omurugur/Sql_Injection_Payload.git Cloning an Existing Repository ( Clone with SSH )
+
+root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
+
+
+Contact :
+Mail : omurugur12@gmail.com
+Linkedin : https://www.linkedin.com/in/omurugur-sibergüvenlik/
+GitHub : https://github.com/omurugur
+
+Donate!
+Support the authors:
+
+
+LiberaPay:
+<noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
