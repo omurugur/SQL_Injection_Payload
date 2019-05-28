@@ -25,11 +25,11 @@ root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 </code></pre>
 
 <h3>Contact :</h3>
-</p>
+
 <h5>Mail</h5> : omurugur12@gmail.com
-</p>
+
 <h5>Linkedin</h5>  : https://www.linkedin.com/in/omurugur-sibergüvenlik/
-</p>
+
 <h5>GitHub</h5>  : https://github.com/omurugur
 
 <h5>Donate!</h5>
