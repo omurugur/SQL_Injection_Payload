@@ -37,6 +37,6 @@ root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 Support the authors:
 
 
-LiberaPay:
+<h5>LiberaPay:</h5>
 
 <noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
