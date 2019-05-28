@@ -23,12 +23,15 @@ root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 
 Contact :
 Mail : omurugur12@gmail.com
+</p>
 Linkedin : https://www.linkedin.com/in/omurugur-sibergüvenlik/
+</p>
 GitHub : https://github.com/omurugur
+</p>
 
 Donate!
+</p>
 Support the authors:
-
-
-<h1>LiberaPay:<h1>
+</p>
+<h3>LiberaPay:<h3>
 <noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
