@@ -24,21 +24,25 @@ given file present on the DBMS file system and in some cases issue commands to t
 SQL injection attacks are a type of injection attack, in which SQL commands are injected into data-plane input in order 
 to effect the execution of predefined SQL commands.
 
-<b>Reference:</b>
-
-SQL Injection point_right https://www.owasp.org/index.php/SQL_Injection
+<h2><a id="user-content-configuration" class="anchor" aria-hidden="true" href="#References"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>References</h2>
 
 
-<h3>Cloning an Existing Repository ( Clone with HTTPS )</h3>
+•	SQL Injection point_right https://www.owasp.org/index.php/SQL_Injection
+
+
+<h2><a id="user-content-configuration" class="anchor" aria-hidden="true" href="#Download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Download</h2>
+
+<h5>Cloning an Existing Repository ( Clone with HTTPS )</h5>
 <pre><code>
-root@slife:~# git clone https://github.com/omurugur/Sql_Injection_Payload.git
+root@slife:~# git clone https://github.com/omurugur/SQL_Injection_Payload.git
 </code></pre>
-<h3>Cloning an Existing Repository ( Clone with SSH )</h3>
+<h5>Cloning an Existing Repository ( Clone with SSH )</h5>
 <pre><code>
-root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
+root@slife:~# git clone git@github.com:omurugur/SQL_Injection_Payload.git
 </code></pre>
 
-<h3>Contact :</h3>
+
+<h2><a id="user-content-configuration" class="anchor" aria-hidden="true" href="#Contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Contact</h2>
 
 <h5>Mail : omurugur12@gmail.com </h5>
 
@@ -46,11 +50,10 @@ root@slife:~# git clone git@github.com:omurugur/Sql_Injection_Payload.git
 
 <h5>GitHub  : https://github.com/omurugur </h5>
 
+<h5>Twitter  : https://twitter.com/omurugurrr </h5>
+
+<h5>Medium  : https://medium.com/@mruur </h5>
+
 <h5>Donate!</h5>
 </p>
 Support the authors:
-
-
-<h5>LiberaPay:</h5>
-
-<noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
